@@ -1,0 +1,10 @@
+metric,value
+total_updates,5755
+elapsed_time,120.34678983688354
+avg_update_rate,47.820137186876785
+total_data_mb,21075.439453125
+avg_throughput_mbps,175.1225727058476
+avg_interval,0.02090835857142789
+max_interval,0.260972261428833
+min_interval,0.0009834766387939453
+interval_stddev,0.016360352541406293
